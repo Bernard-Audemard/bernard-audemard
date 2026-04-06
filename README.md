@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" align="center" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScritp" width="40" height="40" align="center" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" align="center" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" align="center" />
 </div>
 
 &nbsp;
